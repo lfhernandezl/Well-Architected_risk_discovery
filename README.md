@@ -7,7 +7,7 @@ This exercise provides a quick introduction to how to automatically analyze the 
 > (A BIG thanks! to [Turbot](https://turbot.com) Steampipe/Powerpipe collaborators for building such a wonderful tools)
 
 ![Steampipe](https://camo.githubusercontent.com/31d20af0f48b24499c76e768d4b4a7f1402cff7ee7fb9f73c019cb4a18893977/68747470733a2f2f737465616d706970652e696f2f696d616765732f737465616d706970652d636f6c6f722d6c6f676f2d616e642d776f72646d61726b2d776974682d77686974652d627562626c652e737667) 
-![Powerpipe](https://camo.githubusercontent.com/f60987a8385ec93dc3a1e70c119d9dbbc3debfaa5ef1514d60cafa48f668a61e/68747470733a2f2f706f776572706970652e696f2f696d616765732f706f776572706970655f776f72646d61726b2e737667)
+![Powerpipe](https://powerpipe.io/images/powerpipe_wordmark_darkmode.svg)
 
 
 # _Warning/Disclaimer_
