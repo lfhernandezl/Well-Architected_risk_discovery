@@ -15,8 +15,8 @@ This exercise provides a quick introduction to how to automatically analyze the 
 - Use it only on a test or development account. Don't run this on a production account unless you've fully tested it.
 
 ## Setup:
-- Login to [AWS Console](console.aws.amazon.com)
-- Start [AWS CloudShell](console.aws.amazon.com/cloudshell)
+- Login to [AWS Console](https://console.aws.amazon.com)
+- Start [AWS CloudShell](https://console.aws.amazon.com/cloudshell)
 - #### Install Steampipe & AWS plugin
 
 	```
@@ -73,7 +73,7 @@ This exercise provides a quick introduction to how to automatically analyze the 
 
 ### Run a Well-Architected benchmark in the CloudShell Console
 
-- Start [AWS CloudShell](console.aws.amazon.com/cloudshell)
+- Start [AWS CloudShell](https://console.aws.amazon.com/cloudshell)
 - #### Check if Steampipe service is running 
 
 	```
@@ -100,7 +100,7 @@ This exercise provides a quick introduction to how to automatically analyze the 
 	*The results will be displayed in the* **CloudShell Console**
 
 ### Export the benchmark output to html
-- Start [AWS CloudShell](console.aws.amazon.com/cloudshell)
+- Start [AWS CloudShell](https://console.aws.amazon.com/cloudshell)
 - #### Check if Steampipe service is running 
 
 	```
